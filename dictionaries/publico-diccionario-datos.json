@@ -1,0 +1,58 @@
+{
+    "categoria_cod": {
+        "descr": "código de categoría de mora",
+        "type": "string"
+    },
+    "cuota": {
+        "descr": "valor de cuota mensual",
+        "type": "double"
+    },
+    "destinacion_cod": {
+        "descr": "código de destinación de crédito",
+        "type": "string"
+    },
+    "emision": {
+        "descr": "fecha colocación de crédito",
+        "type": "string"
+    },
+    "estado_cliente_cod": {
+        "descr": "código de tipo de asociado",
+        "type": "string"
+    },
+    "estado_laboral_cod": {
+        "descr": "código de estado laboral del asociado",
+        "type": "string"
+    },
+    "garantia_cod": {
+        "descr": "código de la garantía del crédito",
+        "type": "string"
+    },
+    "monto": {
+        "descr": "valor del crédito",
+        "type": "double"
+    },
+    "ncuotas": {
+        "descr": "número de cuotas mensuales",
+        "type": "integer"
+    },
+    "oficina_cod": {
+        "descr": "código de la oficina que coloca el crédito",
+        "type": "string"
+    },
+    "pagaduria_cod": {
+        "descr": "código de pagaduría de pensión del asociado, siendo caja la denominación de asociados no pensionados (incluyendo trabajadores)",
+        "type": "string"
+    },
+    "tasa": {
+        "descr": "tasa de interés mensual",
+        "type": "double"
+    },
+    "tipo": {
+        "descr": "tipo de crédito regular o rotativo",
+        "type": "string"
+    },
+    "tipo_pago_cod": {
+        "descr": "código del tipo de pago",
+        "type": "string"
+    }
+}
